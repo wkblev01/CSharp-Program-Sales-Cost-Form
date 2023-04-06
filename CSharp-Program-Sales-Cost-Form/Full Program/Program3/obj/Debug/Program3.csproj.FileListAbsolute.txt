@@ -1,0 +1,20 @@
+D:\#Holding Bay\CIS 199 VS Work Area\Program3\Program3\bin\Debug\Program3.exe.config
+D:\#Holding Bay\CIS 199 VS Work Area\Program3\Program3\bin\Debug\Program3.exe
+D:\#Holding Bay\CIS 199 VS Work Area\Program3\Program3\bin\Debug\Program3.pdb
+D:\#Holding Bay\CIS 199 VS Work Area\Program3\Program3\obj\Debug\Program3.csprojAssemblyReference.cache
+D:\#Holding Bay\CIS 199 VS Work Area\Program3\Program3\obj\Debug\Program3.Form1.resources
+D:\#Holding Bay\CIS 199 VS Work Area\Program3\Program3\obj\Debug\Program3.Properties.Resources.resources
+D:\#Holding Bay\CIS 199 VS Work Area\Program3\Program3\obj\Debug\Program3.csproj.GenerateResource.cache
+D:\#Holding Bay\CIS 199 VS Work Area\Program3\Program3\obj\Debug\Program3.csproj.CoreCompileInputs.cache
+D:\#Holding Bay\CIS 199 VS Work Area\Program3\Program3\obj\Debug\Program3.exe
+D:\#Holding Bay\CIS 199 VS Work Area\Program3\Program3\obj\Debug\Program3.pdb
+C:\Users\William\Desktop\Schoolwork Archive\#Portfolio Sections\4 Programming\CIS 199\Program3\Program3\bin\Debug\Program3.exe.config
+C:\Users\William\Desktop\Schoolwork Archive\#Portfolio Sections\4 Programming\CIS 199\Program3\Program3\bin\Debug\Program3.exe
+C:\Users\William\Desktop\Schoolwork Archive\#Portfolio Sections\4 Programming\CIS 199\Program3\Program3\bin\Debug\Program3.pdb
+C:\Users\William\Desktop\Schoolwork Archive\#Portfolio Sections\4 Programming\CIS 199\Program3\Program3\obj\Debug\Program3.csprojAssemblyReference.cache
+C:\Users\William\Desktop\Schoolwork Archive\#Portfolio Sections\4 Programming\CIS 199\Program3\Program3\obj\Debug\Program3.SalesCostCalculator.resources
+C:\Users\William\Desktop\Schoolwork Archive\#Portfolio Sections\4 Programming\CIS 199\Program3\Program3\obj\Debug\Program3.Properties.Resources.resources
+C:\Users\William\Desktop\Schoolwork Archive\#Portfolio Sections\4 Programming\CIS 199\Program3\Program3\obj\Debug\Program3.csproj.GenerateResource.cache
+C:\Users\William\Desktop\Schoolwork Archive\#Portfolio Sections\4 Programming\CIS 199\Program3\Program3\obj\Debug\Program3.csproj.CoreCompileInputs.cache
+C:\Users\William\Desktop\Schoolwork Archive\#Portfolio Sections\4 Programming\CIS 199\Program3\Program3\obj\Debug\Program3.exe
+C:\Users\William\Desktop\Schoolwork Archive\#Portfolio Sections\4 Programming\CIS 199\Program3\Program3\obj\Debug\Program3.pdb
